@@ -1,8 +1,7 @@
 # CMS Uploader using plupload http://www.plupload.com/. Code inspired by
 # plupload queue widget https://github.com/moxiecode/plupload/tree/master/js/jquery.plupload.queue
 #
-#= require moxie
-#= require plupload.dev
+
 
 (($, o) ->
   window.CMS or (window.CMS = {})
